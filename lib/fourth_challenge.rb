@@ -22,7 +22,7 @@ def fourth_challenge
          {
          name: "Mercutio",
          age: "18",
-         attitude: "hot headed"
+         attitude: "hot-headed"
          }
        ]
      },
